@@ -4,5 +4,5 @@
 
 ## What I learned
 
-## Technologies I used# FoodTruckProject
-# FoodTruckProject
+## Technologies I used
+Java, Eclipse 
