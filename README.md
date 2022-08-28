@@ -7,7 +7,7 @@ your choice with the max of five Food Trucks.
 It allows you to choose from a menu of 4 options, those options include: 
 
 - List of all existing Food Trucks
-- See the average of Food Trucks
+- See the average rating of Food Trucks
 - Display the highest-rated Food Truck
 - Quit the program
 
